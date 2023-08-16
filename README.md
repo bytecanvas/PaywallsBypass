@@ -229,7 +229,7 @@ PRs are welcome.
 4. Use [JavaScript Semi-Standard Style linter](https://github.com/standard/semistandard). Don't need to follow it exactly. There will be some errors (e.g., do not use it on `sites.js`).
 
 ### Show your support 👌
-* Follow 👉 [@iamadamdev](https://twitter.com/iamadamdev) on Twitter for updates. He's the original author of this repo 😌.
+* Follow 👉 [@iamadamdev](https://twitter.com/iamadamdev) on Twitter for updates. He's the original author😌.
 * ⭐ this repo.
 
 ### ⚠️ Disclaimer 📰
